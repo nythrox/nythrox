@@ -7,7 +7,7 @@ I'm Jason, a full-stack developer with interests in everything tech-related, and
 - 🌱 I’m currently learning Clojure!
 - 👯 I’m interested in collaborating on projects that help bring back decentralization to the internet
 - 🏴 Open Source, decentralization, community, cooperation, self-empowerment, and autonomy 🏳️‍🌈
-- 🤔 I’m looking for help with Functional Programming! I'd love to understand how you architect your systems, and how FP has changed the way you program
+- 🤔 I’m looking for help with Functional Programming! I'd love to understand how you architect your systems, and how you use FP patterns in different contexts
 - 💬 Ask me about Typescript! I believe in the future of typescript: custom transformers, statically typed dynamic programs, powerful type libraries! And I love to talk about it 😃
 - 📫 How to reach me: 
    - Reach me on telegram @nythrox
