@@ -1,5 +1,5 @@
 ### Hi! 👋
-##### I'm Jason, a full-stack developer with interests in everything tech-related, and more!
+I'm Jason, a full-stack developer with interests in everything tech-related, and more!
 
 - 🌎 I’m currently working on many different libraries! 
    - I'm trying to improve the typescript FP ecosystem, 
