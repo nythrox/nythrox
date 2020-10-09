@@ -1,5 +1,5 @@
 ## Hi! 👋
-I'm Jason, a full-stack developer with interests in everything tech-related, and more!
+I'm Jason, a full-stack developer from São Paulo, Brazil. I enjoy <a href="https://github.com/nythrox">programming</a>, <a href="https://drive.google.com/drive/folders/1MNQ6v_8-qVsyyYW5eCZ0OwwUiG4TykOO?usp=sharing">reading books</a>, <a href="https://github.com/nythrox/obsidian-json-vault">learning</a>, and <a href="https://open.spotify.com/user/2d031aiwe8e8x2ssbmgdycd2u">I listen to a lot of music</a>.
 - 📫 Reach out to me:  
    - Message me on telegram @nythrox
    - DM me at twitter @whison3
