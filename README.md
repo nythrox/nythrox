@@ -1,5 +1,5 @@
 ## Hi! 👋
-I'm Jason, a full-stack developer from São Paulo, Brazil. I enjoy <a href="https://github.com/nythrox">programming</a>, <a href="https://drive.google.com/drive/folders/1MNQ6v_8-qVsyyYW5eCZ0OwwUiG4TykOO?usp=sharing">reading books</a>, <a href="https://github.com/nythrox/obsidian-json-vault">learning</a>, and <a href="https://open.spotify.com/user/2d031aiwe8e8x2ssbmgdycd2u">I listen to a lot of music</a> <a href="https://www.youtube.com/playlist?list=PLeyEdjzKZbs2REeoTWvgTo9gDmI1lM2gU">🎵</a>.
+I'm Jason, a full-stack developer from São Paulo, Brazil. I'm always <a href="https://github.com/nythrox">programming</a>, <a href="https://drive.google.com/drive/folders/1MNQ6v_8-qVsyyYW5eCZ0OwwUiG4TykOO">reading books</a>, <a href="https://github.com/nythrox/obsidian-json-vault">learning</a>, and <a href="https://open.spotify.com/user/2d031aiwe8e8x2ssbmgdycd2u">listening to a lot of music</a> <a href="https://www.youtube.com/playlist?list=PLeyEdjzKZbs2REeoTWvgTo9gDmI1lM2gU">🎵</a>.
 - 📫 Reach out to me on:
    - telegram @nythrox
    - twitter @whison3
