@@ -13,7 +13,7 @@ I'm Jason, a full-stack developer from São Paulo, Brazil. I'm always <a href="h
 ## How about you?
 - 🤔 I’m looking for help on Functional Programming! I'd love to understand how you architect your systems using FP, and what tradeoffs you choose to go with.
 - 👯 I’m interested in collaborating on projects that help bring decentralization to the internet!
-- 💬 Talk to me about Typescript! I believe in the future of typescript: custom transformers, statically typed dynamic programs, powerful type libraries!
+- 💬 Talk to me about Typescript! I like thinking about the future of typescript: custom transformers, static analysers, powerful type libraries!
 
 ## Values
 - 🌊 Clean code is the way to go! Creating maintainable software is just as important as launching new features 🚢
