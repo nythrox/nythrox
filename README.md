@@ -18,4 +18,4 @@ I'm Jason, a full-stack developer from São Paulo, Brazil. I'm always <a href="h
 ## Values
 - 🌊 Clean code is the way to go! Creating maintainable software is just as important as launching new features 🚢
 - ️‍🔥 I care deeply about making products that can change the world! ⚙️️‍
-- 🏴 I believe in Open Source, decentralization, self-empowerment, mutual cooperation and sustainability! 🏳️‍🌈
+- 🏴 I believe in a future that is Open Source, decentralized, values freedom of information, self-empowerment though learning and sustainability! 🏳️‍🌈
