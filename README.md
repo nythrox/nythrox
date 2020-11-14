@@ -6,9 +6,9 @@ I'm Jason, a full-stack developer from São Paulo, Brazil. I'm always <a href="h
 
 ## What I'm up to
 - 🌎 I’m working on many different libraries! 
-   - I'm trying to improve the typescript functional programming ecosystem 
+   - I'm trying to learn more about Algebraic Effects 
    - Discovering how to better apply DDD principles, Tagless Final, Free Monads, and zio-style in typescript
-- 🌱 I’m also learning Clojure!
+- 🌱 I’m also learning Scala!
 
 ## How about you?
 - 🤔 I’m looking for help on Functional Programming! I'd love to understand how you architect your systems using FP, and what tradeoffs you choose to go with.
