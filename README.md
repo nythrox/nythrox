@@ -6,8 +6,8 @@ I'm Jason, a full-stack developer from São Paulo, Brazil. I'm always <a href="h
 
 ## What I'm up to
 - 🌎 I’m working on many different libraries! 
-   - I'm trying to learn more about Algebraic Effects 
-   - Discovering how to better apply DDD principles, Tagless Final, Free Monads, and zio-style in typescript
+   - I'm learning more about Algebraic Effects, and creating an implementation in Typescript 
+   - I'm discovering how to better apply DDD principles, Tagless Final, Free Monads, and zio-style in typescript
 - 🌱 I’m also learning Scala!
 
 ## How about you?
