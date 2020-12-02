@@ -3,6 +3,7 @@ I'm Jason, a full-stack developer from São Paulo, Brazil. I'm always <a href="h
 - 📫 Reach out to me on:
    - telegram <a href="https://t.me/nythrox">@nythrox</a>
    - twitter <a href="https://twitter.com/nythrox_">@whison3</a>
+   - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
 
 ## What I'm up to
 - 🌎 I’m working on many different libraries! 
