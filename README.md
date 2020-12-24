@@ -4,6 +4,8 @@ I'm Jason, a full-stack developer from São Paulo, Brazil. I'm always <a href="h
    - telegram <a href="https://t.me/nythrox">@nythrox</a>
    - twitter <a href="https://twitter.com/nythrox_">@whison3</a>
    - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
+   
+I'm open for work, you can find my resume <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing">here</a>.
 
 ## What I'm up to
 - 🌎 I’m working on many different libraries! 
