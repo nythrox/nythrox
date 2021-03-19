@@ -25,3 +25,15 @@ I'm open for work, you can find my resume <a href="https://docs.google.com/docum
 - ️‍🔥 I care deeply about making products that can change the world! ⚙️️‍
 - 🏴 I believe in a future that is Open Source, decentralized, values freedom of information, self-empowerment though learning and sustainability! 🏳️‍🌈
 -->
+
+
+## Badges
+![forthebadge](https://forthebadge.com/images/badges/fuck-it-ship-it.svg)
+![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)
+![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)
+![forthebadge](https://forthebadge.com/images/badges/it-works-why.svg)
+![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![forthebadge](https://forthebadge.com/images/badges/oooo-kill-em.svg)
+![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
+![forthebadge](https://forthebadge.com/images/badges/pretty-risque.svg)
