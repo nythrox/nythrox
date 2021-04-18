@@ -31,4 +31,3 @@ I'm open for work, you can find my resume <a href="https://docs.google.com/docum
 ![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)
 ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 ![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
-![forthebadge](https://forthebadge.com/images/badges/pretty-risque.svg)
