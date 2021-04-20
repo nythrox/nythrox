@@ -21,13 +21,15 @@ I'm open for work, you can find my resume <a href="https://docs.google.com/docum
 - 💬 Talk to me about Typescript! I like thinking about the future of typescript: custom transformers, static analysers, powerful type libraries!
 <!--
 ## Values
-- 🌊 Clean code is the way to go! Creating maintainable software is just as important as launching new features 🚢
-- ️‍🔥 I care deeply about making products that can change the world! ⚙️️‍
-- 🏴 I believe in a future that is Open Source, decentralized, values freedom of information, self-empowerment though learning and sustainability! 🏳️‍🌈
+- 🌊 Clean code is the way to go! Creating maintainable software is just as important as (and essencial for) quickly launching new features 🚢
+- ️‍🔥 My most important objective is building things that can change the world! ⚙️️‍
+- 🏴 I believe in a future that is Open Source, decentralized, that values freedom of information, self-empowerment (though learning) and that is sustainable! 🏳️‍🌈
 -->
 
+![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 
+<!--
 ## Badges
 ![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)
-![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 ![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
+-->
