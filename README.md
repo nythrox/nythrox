@@ -7,7 +7,7 @@ Got any questions on a library, some code of mine, or just want to talk?
    - twitter <a href="https://twitter.com/nythrox_">@nythrox_</a>
    - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
    
-I'm open for work, you can find my resume <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing">here</a>.
+<!-- I'm open for work, you can find my resume <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing">here</a>. -->
 
 ## What I'm up to
 - 🌎 I’m working on many different libraries! 
@@ -27,6 +27,7 @@ I'm open for work, you can find my resume <a href="https://docs.google.com/docum
 -->
 
 ![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
+<br>
 
 <!--
 ## Badges
