@@ -1,9 +1,8 @@
 ## Hey! 👋
 I'm Jason, a full-stack developer, and I've been programming since I learned how to use computers. 
 
-I have a public 🌲 digital garden 🌸 where I write down the stuff I've been learning, my notion for my to-do lists and things I'm planning to study. 
-On a random weekend you can find me listening to a ton of music, programming, categorizing memesimages/random media from the internet, reading, working out, researching about subject I'm interested in and working on my personal projects.
-I'm usually <a href="https://github.com/nythrox">programming</a>, <a href="https://drive.google.com/drive/folders/1MNQ6v_8-qVsyyYW5eCZ0OwwUiG4TykOO">reading books</a>, <a href="https://www.notion.so/7aed0dcf35334b1cb3c2e0967639b680?v=a9b7d9ae37774d8db6bdc0e9ec81ab7b">learning</a><a href="https://github.com/nythrox/obsidian-json-vault/tree/main/Tech/programming">(and relearning)</a> and <a href="https://open.spotify.com/user/2d031aiwe8e8x2ssbmgdycd2u">listening to a lot of music</a> <a href="https://www.youtube.com/playlist?list=PLeyEdjzKZbs2REeoTWvgTo9gDmI1lM2gU">🎵</a>.
+I have a public 🌲 <a href="my.pumpkin.garden">digital garden</a> 🌸 where I write down the stuff I've been learning, and I use notion for my to-do lists and <a href="https://www.notion.so/7aed0dcf35334b1cb3c2e0967639b680?v=a9b7d9ae37774d8db6bdc0e9ec81ab7b">things I'm planning to study</a>. 
+On a random weekend you can find me <a href="https://open.spotify.com/user/2d031aiwe8e8x2ssbmgdycd2u">listening to a ton of music</a>, <a href="github.com/nythrox">programming</a>, categorizing memesimages/random media from the internet, reading, working out, researching about subject I'm interested in and working on my personal projects.
 
 Currently, I'm working as a Mobile Developer using Flutter at BTG Pactual.
 
