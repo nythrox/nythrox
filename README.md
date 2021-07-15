@@ -27,11 +27,11 @@ Got any questions on a library, some code of mine, or just want to talk?
 - 🏴 I believe in a future that is Open Source, decentralized, that values freedom of information, self-empowerment (though learning) and that is sustainable! 🏳️‍🌈
 -->
 
-![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 <br>
 
 <!--
 ## Badges
+![forthebadge](https://forthebadge.com/images/badges/makes-people-smile.svg)
 ![forthebadge](https://forthebadge.com/images/badges/built-with-resentment.svg)
 ![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)
 -->
