@@ -12,7 +12,8 @@ Got any questions on a library, some code of mine, or just want to talk?
    - twitter <a href="https://twitter.com/nythrox_">@nythrox_</a>
    - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
    
-<img align="" height='137px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythrox&layout=compact" />
+   
+<img align="" height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythrox&layout=compact" />
 <!-- I'm open for work, you can find my resume <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing">here</a>. -->
 
 <!--
