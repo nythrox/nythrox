@@ -13,7 +13,7 @@ Got any questions on a library, some code of mine, or just want to talk?
    - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
    
    
-<img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythrox&layout=compact" />
+<img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=nythrox&layout=compact&theme=graywhite" />
 <!-- I'm open for work, you can find my resume <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing">here</a>. -->
 
 <!--
