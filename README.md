@@ -17,6 +17,18 @@ Got any questions on a library, some code of mine, or just want to talk?
 <!-- I'm open for work, you can find my resume <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing">here</a>. -->
 
 <!--
+----
+
+Some of my libraries | projects | works:
+  - effects.js
+  - Purifree
+  - vertex
+  - Flare.css
+  - halftone-qrcode
+  - Nest.js Showcase
+
+-->
+<!--
 ## How about you?
 - 🤔 I’m looking for help on Functional Programming! I'd love to understand how you architect your systems using FP, and what tradeoffs you choose to go with.
 - 👯 I’m interested in collaborating on projects that help bring decentralization to the internet!
