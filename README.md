@@ -9,6 +9,7 @@ Currently, I'm working as a Mobile Developer using Flutter at BTG Pactual. You c
 Got any questions on a library, some code of mine, or just want to talk?
 - 📫 Reach out to me on:
    - telegram <a href="https://t.me/nythrox">@nythrox</a>
+   - discord pumpkin#6426
    - twitter <a href="https://twitter.com/nythrox_">@nythrox_</a>
    - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
    
