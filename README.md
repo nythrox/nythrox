@@ -1,5 +1,5 @@
 ## Hey! 👋
-I'm Jason, a full-stack developer, and I've been programming since I first got access to a computer. 
+I'm Jason, a full-stack developer, and I've been coding since I first got my hands on a computer. 
 
 I have a public <a href="https://my.pumpkin.garden/g/programming+humor">🌱 digital garden 🌲</a> where I write down the stuff I've been learning, and I use notion for my to-do lists and <a href="https://wary-tabletop-aba.notion.site/7aed0dcf35334b1cb3c2e0967639b680?v=68c587f99cd64533ac38126e79978490">things I'm planning to study</a>. 
 On a random weekend you can find me <a href="https://open.spotify.com/user/2d031aiwe8e8x2ssbmgdycd2u">listening to a ton of music</a>, <a href="https://github.com/nythrox">programming</a>, categorizing memes/images/random media from the internet, reading, working out, researching about subjects I'm interested in and working on my personal projects.
