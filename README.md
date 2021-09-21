@@ -6,7 +6,7 @@ On a random weekend you can find me <a href="https://open.spotify.com/user/2d031
 
 Currently, I'm working as a Mobile Developer using Flutter at BTG Pactual. You can read my resume <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing"> here</a>.
 
-Got any questions on a library, some code of mine, or just want to talk?
+Got any questions on a library, some code of mine, or just want to chat?
 - 📫 Reach out to me on:
    - telegram <a href="https://t.me/nythrox">@nythrox</a>
    - discord pumpkin#6426
