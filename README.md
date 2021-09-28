@@ -4,6 +4,8 @@ I'm Jason, a full-stack developer, and I've been coding since I first got my han
 I have a public <a href="https://my.pumpkin.garden/g/programming+humor">🌱 digital garden 🌲</a> where I write down the stuff I've been learning, I use notion for my to-do lists and <a href="https://wary-tabletop-aba.notion.site/7aed0dcf35334b1cb3c2e0967639b680?v=68c587f99cd64533ac38126e79978490">things I'm planning to study</a>. 
 On a random weekend you can find me <a href="https://open.spotify.com/user/2d031aiwe8e8x2ssbmgdycd2u">listening to a ton of music</a>, <a href="https://github.com/nythrox">programming</a>, categorizing memes/images/random media from the internet, reading, working out, researching about subjects I enjoy learning about and working on my personal projects.
 
+See some of my <a href="https://gist.github.com/nythrox">gists</a> (playful hacks I've made).
+
 Currently, I'm working as a Mobile Developer using Flutter at BTG Pactual. You can read my CV <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing"> here</a>.
 
 Got any questions on a library, some code of mine, or just want to chat?
