@@ -12,7 +12,7 @@ Got any questions on a library, some code of mine, or just want to chat?
 - 📫 Reach out to me on:
    - telegram <a href="https://t.me/nythrox">@nythrox</a>
    - discord pumpkin#6426
-   - twitter <a href="https://twitter.com/nythrox_">@nythrox_</a>
+   - twitter <a href="https://twitter.com/nythr0x">@nythr0x</a>
    - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
    
    
