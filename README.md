@@ -6,7 +6,7 @@ On a random weekend you can find me <a href="https://my.pumpkin.garden/c/music">
 
 See some of my <a href="https://gist.github.com/nythrox">gists</a> (playful hacks I've built).
 
-Currently, I'm working as a Mobile Developer using Flutter at BTG Pactual. You can read my CV <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing"> here</a>.
+You can read my CV <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RPSyAumDo1zKpkiHYCeuY7fyHUOSQ/edit?usp=sharing"> here</a>.
 
 Got any questions on a library, some code of mine, or just want to chat?
 - 📫 Reach out to me on:
