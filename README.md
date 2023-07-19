@@ -11,7 +11,7 @@ You can read my CV <a href="https://docs.google.com/document/d/1NTGi1UjUfwKXm1RP
 Got any questions on a library, some code of mine, or just want to chat?
 - 📫 Reach out to me on:
    - telegram <a href="https://t.me/nythrox">@nythrox</a>
-   - discord pumpkin#6426
+   - discord json#8207
    - email: <a href="mailto:jasonsantiagobutler@gmail.com">jasonsantiagobutler@gmail.com</a>
    
    
